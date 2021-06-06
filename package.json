@@ -1,0 +1,8 @@
+{
+  "name": "dev.voltstro.unitysystemthreadingtasksextensions",
+  "displayName": "Unity System Threading Tasks Extensions",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "Adds System.Threading.Tasks.Extensions.",
+  "author": "Voltstro"
+}
